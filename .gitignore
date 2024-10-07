@@ -2,3 +2,5 @@ prices.js
 data.backup.json
 package.json
 node_modules
+.gitignore
+.stats.js
