@@ -50,8 +50,6 @@ type Brewery = {
     images: string[];       // untappd photos
     beer_count: number;    
     description: string;    // untappd description
-    can_price: number;      // fictional price (see README)
-    bottle_price: number;      // fictional price (see README)
 }
 
 type AmericanAles = {
